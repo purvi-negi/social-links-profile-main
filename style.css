@@ -117,7 +117,7 @@ body {
     }
 
     .container .content li {
-        width: 90%;
+        width: 75%;
         /* Adjust list item width to be a percentage */
     }
 
